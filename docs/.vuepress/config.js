@@ -1,5 +1,6 @@
 module.exports = {
-  base: "/glassyskyblog/",
+  base: "/my-blog-map/",
+  dest: "dist",
   locales: {
     "/": {
       lang: "zh-CN",
@@ -7,7 +8,6 @@ module.exports = {
   },
   title: "Molly's blog",
   description: "海阔凭鱼跃，天高任鸟飞。Hey 你好！我是猫力",
-  dest: "public",
   head: [
     ["link", { rel: "icon", href: "/images/favicon.ico" }],
     [
@@ -81,6 +81,12 @@ module.exports = {
         desc: "宇宙真的好谦虚啊，明明拥有一切，却叫太空",
         logo: "https://daodaolee.cn/avatar.png",
         link: "https://daodaolee.cn/",
+      },
+      {
+        title: "ryuurock",
+        desc: "有一天就是今天，今天就是有一天",
+        logo: "https://ryuurock.github.io/covers/common/userface.jpg",
+        link: "https://ryuurock.github.io/",
       },
     ],
     logo: "/images/logo.jpg",
