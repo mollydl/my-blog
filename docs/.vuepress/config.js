@@ -32,14 +32,28 @@ module.exports = {
         icon: "reco-message",
         items: [
           {
-            text: "codeSandbox",
-            link: "https://codesandbox.io",
-            icon: "reco-coding",
+            text: "mac软件大全",
+            link: "https://macwk.com/soft/all/p1",
           },
           {
-            text: "正则表达式手册",
-            link: "https://tool.oschina.net/uploads/apidocs/jquery/regexp.html",
-            icon: "reco-coding",
+            text: "图片无损压缩",
+            link: "https://tinypng.com",
+          },
+          {
+            text: "色卡大全",
+            link: "https://webgradients.com",
+          },
+          {
+            text: "挖掘机配图",
+            link: "https://www.logoly.pro",
+          },
+          {
+            text: "正则可视化",
+            link: "https://jex.im/regulex/#!flags=&re=%5E(a%7Cb)*%3F%24",
+          },
+          {
+            text: "数据结构/算法可视化",
+            link: "https://visualgo.net/zh",
           },
         ],
       },
@@ -120,8 +134,8 @@ module.exports = {
       {
         theme: ["koharu"],
         clean: true,
-        width: 240,
-        height: 352,
+        width: 210,
+        height: 322,
       },
     ],
     [
