@@ -1,5 +1,5 @@
 ---
-title: 重读红宝书之JavaScript的历史回顾与组成
+title: 重读红宝书之JavaScript语言基础
 date: 2022-01-27
 permalink: /article/1643292781
 categories:
