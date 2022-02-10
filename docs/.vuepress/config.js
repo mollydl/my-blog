@@ -152,7 +152,7 @@ module.exports = {
       "dynamic-title",
       {
         showText: "",
-        hideText: "😵😵😵😵😵😵",
+        hideText: "天高任鸟飞",
       },
     ],
     [

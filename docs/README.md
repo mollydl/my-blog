@@ -1,12 +1,16 @@
 ---
 home: true
 bgImage: "/images/home-backimg.jpeg"
-bgImageStyle: { height: "450px" }
+bgImageStyle: { height: "calc(100vh - 56px)" }
 ---
 
 <style>
-  .hero{
+.hero{
   z-index: 0;
-  color: #FFF
+  color: #FFF;
+  text-shadow: 5px 5px 5px #333;
+}
+.home-blog{
+  background-color: #fefefe;
 }
 </style>
